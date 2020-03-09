@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	font-family: Calibri;
+	margin-bottom: 30px;
+	color: aquamarine;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-color: lightcoral;
+}
+
+div{
+	margin-top: 30px;
+	width: 360px;
+	text-align: left;
+
+}
+#image{
+	height:250px ;
+	width: 250px;
+}
