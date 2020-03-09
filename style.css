@@ -1,6 +1,6 @@
 h1{
 	text-align: center;
-	font-family: Calibri;
+	font-family: "Comic Sans MS";
 	margin-bottom: 30px;
 	color: aquamarine;
 }
@@ -11,7 +11,7 @@ h1{
 }
 
 body {
-	background-color: lightcoral;
+	background-color: lightseagreen;
 }
 
 div{
@@ -21,6 +21,6 @@ div{
 
 }
 #image{
-	height:250px ;
-	width: 250px;
+	height:300px ;
+	width: 300px;
 }
